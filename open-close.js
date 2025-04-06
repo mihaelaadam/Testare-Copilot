@@ -2,7 +2,6 @@
 // async function openAndCloseSite() {
 //     const browser = await puppeteer.launch({ headless: false }); // setează false ca să vezi browserul
 //     const page = await browser.newPage();
-
 //     await page.goto('https://oportunitatisicariere.ro');
 //     await new Promise(resolve => setTimeout(resolve, 5000)); // așteaptă 5 secunde
 //     await browser.close();
